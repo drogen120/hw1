@@ -13,3 +13,14 @@ In `experts/`, the provided expert policies are:
 * Walker2d-v1.pkl
 
 The name of the pickle file corresponds to the name of the gym environment.
+
+
+# How to Run the Code
+The code depends on TensorFlow r12.0.
+
+Simply run 
+```bash
+bash run_all.sh
+```
+
+Several new folders will be generated and you can find all the figures under `figures` directory. 
