@@ -1,0 +1,10 @@
+python BC.py HalfCheetah-v1 experts/HalfCheetah-v1.pkl data/HalfCheetah_data.pkl --epochs 10 --percent 20 --output log/HalfCheetah_per20_res.pkl
+python BC.py HalfCheetah-v1 experts/HalfCheetah-v1.pkl data/HalfCheetah_data.pkl --epochs 10 --percent 40 --output log/HalfCheetah_per40_res.pkl
+python BC.py HalfCheetah-v1 experts/HalfCheetah-v1.pkl data/HalfCheetah_data.pkl --epochs 10 --percent 60 --output log/HalfCheetah_per60_res.pkl
+python BC.py HalfCheetah-v1 experts/HalfCheetah-v1.pkl data/HalfCheetah_data.pkl --epochs 10 --percent 80 --output log/HalfCheetah_per80_res.pkl
+python BC.py HalfCheetah-v1 experts/HalfCheetah-v1.pkl data/HalfCheetah_data.pkl --epochs 10 --percent 100 --output log/HalfCheetah_per100_res.pkl
+python BC.py Hopper-v1 experts/Hopper-v1.pkl data/Hopper_data.pkl --epochs 10 --percent 20 --output log/Hopper_per20_res.pkl
+python BC.py Hopper-v1 experts/Hopper-v1.pkl data/Hopper_data.pkl --epochs 10 --percent 40 --output log/Hopper_per40_res.pkl
+python BC.py Hopper-v1 experts/Hopper-v1.pkl data/Hopper_data.pkl --epochs 10 --percent 60 --output log/Hopper_per60_res.pkl
+python BC.py Hopper-v1 experts/Hopper-v1.pkl data/Hopper_data.pkl --epochs 10 --percent 80 --output log/Hopper_per80_res.pkl
+python BC.py Hopper-v1 experts/Hopper-v1.pkl data/Hopper_data.pkl --epochs 10 --percent 100 --output log/Hopper_per100_res.pkl
